@@ -1,0 +1,25 @@
+1. a) A relação entre a LGPD e os Data Centers o Brasil
+A Lei Geral de Proteção de Dados (LGPD) no Brasil estabelece normas para a coleta, uso e armazenamento de dados pessoais. Data centers, como responsáveis pelo armazenamento e processamento desses dados, devem garantir a conformidade com a LGPD, implementando medidas de segurança adequadas e assegurando que os dados sejam tratados de acordo com os direitos dos titulares estabelecidos pela lei.
+
+1. b) Fomatos de arquivos de dados proprietários e abertos 
+  1. Forneca exemplos de formatos
+Formatos de Arquivos de Dados Proprietários:
+- docx (Microsoft Word) 
+- xlsx (Microsoft Excel) 
+- pst (Microsoft Outlook) 
+
+Formatos de Arquivos de Dados Abertos:
+
+- csv (Comma-Separated Values) 
+- json (JavaScript Object Notation) 
+- xml (eXtensible Markup Language)
+
+  2. Discuta as implicações relacionadas a dados públicos
+Arquivos de dados públicos devem ser acessíveis e reutilizáveis por qualquer pessoa, mas precisam seguir regulamentações sobre privacidade e segurança. Isso significa garantir que informações pessoais sejam protegidas e que o acesso a dados sensíveis seja controlado, mesmo quando os dados são disponibilizados para o público.
+
+Fontes:
+https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/#:~:text=Home-,Relação%20entre%20Data%20Center%20e%20a,de%20Proteção%20de%20Dados%20(LGPD)&text=A%20Lei%20Geral%20de%20Proteção%20de%20Dados%20(LGPD)%20obriga%20as,a%20administração%20do%20Data%20Center.
+https://app-lgpdbrasil.azurewebsites.net/quais-os-impactos-da-lgpd-para-os-data-centers/
+https://opendatahandbook.org/guide/pt_BR/appendices/file-formats/
+https://www.serpro.gov.br/lgpd/menu/protecao-de-dados/dados-publicos-lgpd
+
