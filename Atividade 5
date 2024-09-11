@@ -1,0 +1,16 @@
+Código de estrutura de repetição:
+cores = ["azul", "amarelo", "rosa"]
+for cor in cores:
+    print(cor)
+
+Código dee estrutura de tomada de decisão
+a = input("Digite sua nota:")
+nota = float (a)
+
+if nota >=7.0:
+    print ("Você está aprovado por média.")
+
+if nota < 7.0:
+    print ("Você não está aprovado por média.")
+
+
