@@ -10,4 +10,6 @@
 frase = "Olá, como você está?"
 vogais = imprimir_vogais(frase)
 print("Vogais:", vogais)
- 
+
+Vogais: Oaooeea
+
